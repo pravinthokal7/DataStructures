@@ -24,11 +24,8 @@ public class Main
 		
 		s.add(6);
 		s.add(10);
-		
 		a.display();
-		
-		System.out.println(a.contains(7));
-		
+		System.out.println(a.contains(7));	
 		s.display();
 		
 		System.out.println();
